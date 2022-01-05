@@ -1,0 +1,343 @@
+J\'ai froid.  
+
+J\'ai l\'impression qu\'une presse m\'ecrase contre le sol.  
+
+Mon corps est inconfortable, douloureux. 
+
+Des images se reveillent, tenues comme des cendres, mais suffocantes.  
+
+Je revoie des poutres calcinees, j\'entends des cris, je me rappelle les visages figes comme des statues de cire des miens, de mes parents, de ma soeur. Une odeur de sang. 
+
+J\'ouvre les yeux avec un hoquet, mon coeur a manque un battement. Les murs, lisses, s\'elevent haut, a une dizaine de metres. Une minuscule ouverture apparait au sommet ou passe la lumiere tremblante des bougies ou d\'une cheminee. Elle doit donner sur un interieur... ou ? Je n\'ose y penser. 
+
+Je me redresse. Une porte en bois massif se dresse devant moi. Un banc, une simple planche de bois, seul confort de la piece, longe le mur derriere moi.  
+
+Je suis dans une cellule. 
+
+Les heures passent. Je ne sais pas ce que je fais ici. J\'entends parfois des bruits lointains, des portes qui grincent.  
+
+Ils vont venir me chercher. Mais pour me faire quoi ? Pourquoi m\'avoir epargne, moi ? L\'envie de savoir me brule, et pourtant je sais que lorsque j\'aurai compris ce qu\'on veut me faire, mes heures seront bien pires.  
+
+Un instant, une eternite plus tard, je ne sais pas, des pas se mettent a retentir tout autour. J\'entends des portes qui s\'ouvrent, des voix precipitees dans une langue que je ne connais pas. Il y a des cris aussi, des hommes, comme moi sans doute, qui demandent ce qu\'ils font ici, d\'autres qui hurlent, qui traitent d\'assassins. Parfois, j\'entends des corps heurter le sol ou les murs avec des cris, qu\'on traine, qu\'on pousse.  
+
+Enfin, c\'est mon tour. Ma porte s\'ouvre. Une guerriere drow, evidemment.  
+
+Je suis dans les cites souterraines.  
+
+Elle me fait le geste de sortir. J\'obeis et passe devant elle pour arriver dans un couloir ou s\'aligne de nombreuses cellules comme la mienne. D\'autres drows sont la et font avancer des prisonniers, que je ne connais pas. 
+
+On nous conduit de couloirs en couloirs jusqu\'a deux grandes cages ou attendent deja d\'autres personnes. Ils nous font entrer dans l\'une d\'elle et ferment derriere nous. Des gardes nous surveillent.  
+
+Dans l\'autre, les hommes et les femmes qui y sont ne nous ressemblent pas. Ils sont muscles, couverts de cicatrices et portent tous des vetements guerriers. Dans la mienne, la plupart semble etre des paysans ou artisans. Je suis peut-etre le seul a pouvoir me defendre.  
+
+Un brouhaha commence a parvenir jusqu\'a nous, d\'abord calme, puis de plus en plus excite.  
+
+La tension monte de notre cote. 
+
+On entend des applaudissements, des chants, des cris.  
+
+On se recule vers le fond, on se rapproche les uns des autres, instinctivement. 
+
+Des drows viennent ouvrir la cage et selectionnent six d\'entre nous. On les regarde partir vers une immense porte de bois a double battant. Les drows les poussent derriere et les referment sur eux. Et ils se postent la, ils attendent.  
+
+On entend les hurlements d\'une foule delirante, des applaudissements, et des cris de terreur. 
+
+Quelques minutes plus tard, ils reviennent vers nous et recommencent. Ils en prennent quatre cette fois. Nous commencons a nous agiter, a nous pousser vers le fond. Certains pleurent en silence. 
+
+Je prefere rester devant, une facon de me porter volontaire et d\'en finir au plus vite.  
+
+Mais lorsque les drows reviennent, ils me poussent sur le cote et prennent tous les autres.  
+
+Il ne reste plus que moi.  
+
+Un cri de rage se bloque au fond de ma gorge.  
+
+J\'attends longtemps encore.  
+
+Puis, enfin, c\'est moi. Ils m\'attrapent par les bras et me poussent sur le meme chemin que les autres, qui ne sont pas revenus. Ils ouvrent les battants, et me jettent a l\'interieur. 
+
+Je suis dans un sas. Une autre immense porte de bois se dresse devant moi. 
+
+Sur les cotes, sur des trappes, sont disposees des armes.  
+
+Sur les cotes, sur des trappes, sont disposees des armes.  
+
+[ Action< ] Laquelle de ces armes prendre ? 
+
+Epee lourde – Guerrier  
+
+Epee courte – Rodeur ou voleur 
+
+Baton de magie – mage  
+
+Arc – Chasseur ou archer 
+
+Je souleve [arme] et aussitot les trappes s\'ouvrent et font disparaitre les autres moyens que je pouvais employer pour me defendre.  
+
+[ Action> ] 
+
+Je me prepare. Je me positionne debout, devant le battant derriere lequel s\'eleve le brouhaha de la foule. 
+
+La porte se remonte, tout doucement. Des cris, des applaudissements explosent.   
+
+Je distingue petit a petit un sol de sable, des hauts murs en pierre sur les cotes, des barreaux integres a l\'interieur, portes de cages sans doute. Des gradins dominant l\'arene et croulant sous une foule de drows criant, les yeux vifs, le poing leve.  
+
+Je m\'avance, dans le sable, au milieu des acclamations, que je ne comprends pas. 
+
+Tous les yeux me regardent. Et je les regarde tous, d\'un air de defi. 
+
+Une des petites portes sur les cotes s\'ouvre. Une lionne entre. Puis une autre, une troisieme, et enfin, un lion.  
+
+[ Phase de combat – meute lions < ] 
+
+Loot : griffe de lion  
+
+[ Phase de combat – meute lions > ] 
+
+Une porte sur le cote s\'ouvre. J\'attends anxieusement qu\'un autre ennemi paraisse, mais c\'est un drow qui vient et me fait signe de sortir. Je le rejoins, il recupere mon arme et il me conduit dans ma cellule.  
+
+Un plateau avec de la nourriture m\'y attend, ainsi qu\'une bassine d\'eau propre. 
+
+Je meurs de faim, je mange d\'abord, je bois, puis je m\'occupe des quelques blessures ensuite en les lavant soigneusement avec l\'eau.  
+
+La longue attente recommence. 
+
+Combien de temps pourrais-je tenir ainsi ? Y a-t-il une chance de sortir au bout d\'un certain nombre de victoires ? Ou seule la mort attend ? 
+
+[ Phase repos – Vous regagnez X% de PV ] 
+
+Ca recommence. Les bruits de pas envahissent a nouveau les couloirs. Il y a moins de cris cependant, seulement les ordres en langue drow. Je me prepare mentalement, a combattre, et a regarder.  
+
+Lorsque ma porte s\'ouvre, j\'obeis docilement, mais enregistre dans mon esprit tout ce que je vois, les couloirs, le nombre de gardes, les pieces qui ne semblent pas etre des cellules.  
+
+Pour le moment, impossible de reperer la sortie.  
+
+Dans les cages, seuls se trouvent les hommes et les femmes a l\'allure de guerrier. Les champions.  
+
+Les autres n\'ont pas survecu, c\'est certain. Et l\'absence de nouveaux civiles me donne au moins la rassurante nouvelle qu\'il n\'y a pas eu de raid a la surface depuis la derniere fois.  
+
+On me fait patienter dans la meme cage que la premiere fois. Les cris du public nous viennent en sourdine.  
+
+J\'essaie de tout oublier. Je ferme les yeux et tente de vider mon esprit. Mais l\'inquietude reste, tenace, accrochee a mon coeur.  
+
+Heureusement, je n\'ai pas a attendre longtemps. Je suis le premier qu\'on vient chercher. 
+
+Je me retrouve dans ce sas, ou la peur imbibe les murs. Seule demeure l\'arme que j\'ai choisie la derniere fois. Je m\'en empare et me concentre. 
+
+Les acclamations retentissent, de plus en plus forts, les applaudissements reclament le sang.  
+
+La porte s\'ouvre, la clameur monte.  
+
+Je m\'avance vers le centre de l\'arene tandis que le sas se referme et que celui d\'en face s\'ouvre. J\'attends avec anxiete mon ennemi. Il est reste dans l\'ombre. C\'est un homme, un humain.  
+
+Il s\'avance, il a un bouclier et une lance, le visage ferme et resolu. J\'ai l\'impression qu\'aucun dialogue ne pourra s\'engager. Que compte-t-il faire ? Il va vraiment m\'attaquer ? 
+
+[ Phase de combat – hoplite < ] 
+
+L\'homme pousse un cri et frappe le bout de sa lance plusieurs fois contre le sol. Puis il se precipite vers moi. 
+
+Loot : Morceaux de tissu 
+
+[ Phase de combat – hoplite > ] 
+
+Un haut-le-coeur me vient.  
+
+Je regarde ce cadavre, cet homme que j\'aurais peut-etre apprecie connaitre si je l\'avais rencontre ailleurs. Massacre inutile... 
+
+Je sors sans jeter un regard vers les tribunes. Ils me degoutent. Je me degoute. Dois-je continuer a me plier a leur jeu ? Ai-je vraiment le moindre espoir, la moindre chose a gagner a tuer les miens ? 
+
+On me remet dans ma cellule. Comme la derniere fois, on m\'a laisse de la nourriture et une bassine d\'eau limpide. 
+
+[ Phase repos – Vous regagnez X% de PV  
+Voulez-vous utiliser les morceaux de tissu pour faire des bandages (X soins restants) ? ] 
+
+Je commence a reperer le rythme de vie des drows. Ces... spectacles... que nous donnons a chaque fois doivent avoir lieu apres les journees de travail. Lorsqu\'ils sont termines, pendant deux ou trois heures, tres approximativement, l\'activite semble la meme que toute la journee, puis elle deminue, indiquant certainement qu\'une majorite de gardes est rentree pour la nuit.  
+
+Il me semble impossible de leur echapper au moment ou l\'on nous conduit a l\'arene. Mais, pendant qu\'ils sont moins nombreux, au moment qui doit correspondre a la nuit ?  
+
+Mon coeur est serre, comme presse dans une poigne de fer, mon estomac est renverse. Je ne me suis jamais senti plus vivant, plus reel, que depuis que je suis ici. Je n\'ai jamais autant souhaite disparaitre, comme un esprit evanescent.  
+
+Pourtant, quand je suis dans l\'arene, je ne peux m\'empecher de vouloir survivre, a tous prix. 
+
+Enfin, on vient me chercher. J\'ai toujours cette envie de finir, d\'en revenir au moment ou l\'on me rend a ma cellule, ce temps qui est le plus calme de ceux que je peux vivre ici.  
+
+Je regarde bien les couloirs, les portes. L\'une d\'elle, fermee les autres jours, est entrebaillee. J\'apercois des manteaux accroches au mur et une table couverte d\'en-cas et d\'un jeu de carte. Serait-ce la salle des gardiens ?  
+
+La tension monte au plus haut degre tandis qu\'on m\'ouvre la cage. C\'est peut-etre tout simplement de la peur, une peur controlee. Je dois la supporter longtemps, cette fois-ci. On ne vient me cherche que pour la fin, je crois que j\'ai l\'honneur du dernier combat.  
+
+Je rentre dans le sas, davantage jete que marchant dignement. Je recupere mon arme habituelle et me place au meme endroit qu\'a chaque fois, les deux pieds fermement ancres dans le sol.  
+
+Le public m\'appelle, me reclame. Ou reclame ma tete. Je me demande s\'il souhaite me voir mourir ou me voir gagner. Peut-etre choisi-t-il son champion et le soutient tant qu\'il vit.  
+
+La porte s\'ouvre. Je vois le sable, couleur sang a quelques endroits, puis les murs, et enfin, eux, les monstres hurlants.  
+
+Je m\'avance. La porte qui liberera mon ennemi inconnu n\'est pas encore ouverte. 
+
+J\'attends, anxieux, sous les applaudissements qui reclame son ouverture. 
+
+Enfin, elle se souleve de quelques centimetres. Une masse, enorme a en juger le bruit, s\'ecrase contre le bois, le frappe. Une bete est de l\'autre cote, et demande a sortir.  
+
+Je me campe fermement sur mes jambes, bande mes muscles. Je n\'aurai pas affaire a un humain cette fois. 
+
+Les coups sourds contre la porte se calment. Le battant continue de se soulever.  
+
+Un rugissement violent retentit et emmene les cris de delire du public.  
+
+Je vois, dans l\'ombre, d\'immenses griffes, sur des pattes noires couvertes d\'ecailles, et un bout d\'aile. 
+
+La porte etait a peine arrivee a mi-hauteur de la bete qu\'elle se courbe et se precipite en-dessous, se jetant face a moi dans l\'arene.  
+
+La wynerne ne prend meme pas le temps de m\'observer.  
+
+[ Phase de combat – wyverne < ] 
+
+Loot : Dard de wyverne 
+
+[ Phase de combat – wyverne > ] 
+
+Je l\'ai vaincu. Je l\'ai vaincu.  
+
+Je regagne ma cellule comme un etre mecanique sans emotion. C\'est pourtant en tremblant que je nettoie mes blessures, en tremblant que je regarde mon reflet dans l\'eau brunie.  
+
+Il faut que je parte le plus vite possible. Qui sait quelle creature je pourrais affronter encore ? Plus le temps passe, plus je faibli, plus mes blessures me diminue. Je dois sortir de la. 
+
+[ Phase repos – Vous regagnez X% de PV  
+Voulez-vous utiliser les morceaux de tissu pour faire des bandages (X soins restants) ? ] 
+
+Le moment est venu. On n\'entend plus que les pas d\'une ronde reduite. J\'attends que le garde passe dans mon couloir et s\'eloigne, puis, muni de la griffe de lion et du dard, je me mets a la porte pour crocheter ma cellule.  
+
+J\'utilise la griffe comme entraineur, pour bloquer la serrure, et le dard comme crochet, en prenant garde a ne pas me piquer en le manipulant, au cas ou il reste du poison.  
+
+Je dois m\'arreter une fois, pendant le retour du garde, avant de reprendre mon essai. Je crois que ca va marcher, que ca va s\'ouvrir. Mais ce ne sera pas le plus difficile.  
+
+Enfin, j\'entends le loquet rentrer. Je me fige.  
+
+J\'attends que le garde repasse. Je tente de controler ma respiration, mon espoir. Je me concentre sur mes bras et mes doigts pour que le loquet ne relache pas et que le porte ne s\'entrouvre pas.  
+
+Enfin, les pas resonnent dans le couloir, le traversent, tournent au bout, disparaissent en ne laissant plus que l\'echo. Je pousse doucement le battant. Je retiens difficilement un mouvement de joie lorsque j\'apercois ce couloir que je redoute tant a certaines heures. 
+
+Je me glisse a l\'exterieur. Je longe le mur, je suis le chemin emprunte tant de fois en ecoutant attentivement. Je retrouve cette salle que j\'avais apercue.  
+
+La porte est fermee.  
+
+J\'applique mon oreille contre le battant et entreprends d\'ecouter, de reperer le moindre souffle venant de la piece.  
+
+Je n\'entends rien, mis a part la marche lointaine des gardiens qui m\'inquiete. Je pousse la porte, entre, et la referme derriere moi, me donnant un semblant de sentiment de securite. 
+
+C\'est bien la salle des gardes.  
+
+Comme je l\'esperais, trois armes oubliees trainent sur un ratelier. Je m\'empare de ma favorite.  
+
+En revanche, il n\'y a pas de tenue complete qui aurait pu m\'aider a m\'en sortir plus facilement.  
+
+Sur la table, je repere un parchemin roule. Je m\'approche et le deroule pour voir ce qu\'il contient.  
+
+Je reste un instant sans souffle. Il est impossible que je puisse avoir autant de chance, et pourtant... C\'est bien une carte de la cite ! 
+
+La porte s\'ouvre brusquement, je me recule d\'un bond.  
+
+En face de moi, un guerrier drow me regarde avec surprise.  
+
+[ Phase de combat – mage drow < ] 
+
+Loot : Carte de la cite souterraine 
+
+[ Phase de combat – mage drow > ] 
+
+Les cris et les bruits du combat vont certainement ramener les autres. Je me precipite dehors et cours a l\'oppose des bruits.  
+
+Je traverse couloir sur couloir, je ne sais pas ou je vais, j\'espere seulement trouver la sortie avant qu\'eux me trouve. 
+
+Enfin, j\'arrive devant une porte a double battant qui ressemble a une porte donnant sur un exterieur. Je ne reflechis pas, je l\'ouvre et... la rue !  
+
+Je me precipite dehors, cours entre les maisons, longe les murs. Il y a quelques badauds tardifs, mais si certains m\'ont regarde avec etonnement, ils n\'ont pas l\'air de se preoccuper d\'un champion en cavale.  
+
+Je m\'arrete lorsque je pense avoir assez seme mes poursuivant. Je me glisse dans une ruelle pour reprendre mon souffle, mes esprits et me reconcentrer.  
+
+J\'ouvre la carte et examine les sorties. Laquelle prendre ? Laquelle serait la moins garde ? 
+
+Je me sens soudain impuissant. J\'ai quitte une prison plus petite pour me retrouver dans une prison plus grande. Mais qui a eu la bonne idee de bannir les drows de la surface de la Terre ? 
+
+Mon regard se porte sur la riviere souterraine. On dirait qu\'elle sort en cascade vers un niveau plus bas, que la cite est situee a l\'interieur d\'une falaise. La carte indique des zones vertes, comme des prairies ou des forets la ou elle debouche. Ainsi, soit elle conduit a l\'exterieur, soit elle s\'enfonce plus profondement dans les souterrains.  
+
+L\'une ou l\'autre des solutions permettrait sans doute de me mettre en securite. Bien sur, je prefererais la premiere. Si je me perds plus profondement sous terre, qui sait quand je pourrais ressortir ? 
+
+J\'entreprends de sortir de ma cachette et de marcher tranquillement, pour ne pas trop attirer l\'attention. Je cherche les zones d\'ombre, pour dissimuler mon apparence d\'humain.  
+
+J\'arrive aux quais cinq minutes plus tard. Le courant y est tres fort. Je les longe un instant pour voir ou mene la riviere. Mais j\'entends des voix agitees non loin, des pas precipites.  
+
+Ils ont du appeler du renfort pour me retrouver.  
+
+printf("Je vois, plus loin, des barques. Je m\'y dirige, toujours en marchant. Mais un cri eclate derriere moi et des pas devalent les paves dans ma direction.  J\'ose jeter un oeil et vois des guerriers drows courir dans ma direction.  \n");
+printf("Je cours aussi. Je cours plus vite que je ne l\'ai jamais fait. \n");
+printf("Arrive au niveau des barques, je saute dans l\'une d\'elle, je detache l\'amarre et pousse contre les autres pour precipiter la mienne dans le courant.  \n");
+printf("Elle m\'emporte rapidement.  \n");
+printf("Les drows ne prennent pas les autres barques. Ils restent sur les quais et me suivent en courant. L\'un d\'eux a un arc et le bande. Il tire ses fleches sur moi. Je m\'accroupi et me cale contre le bord de la barque pour exposer le moins possible mon corps. Heureusement, l\'archer a du mal a viser en courant et aucune fleche ne fait mouche.  \n");
+printf("Ma barque est trainee hors de la ville. Les drows abandonnent. Et je me retrouve seul dans un courant affolant. \n");
+printf("Je regarde avec inquietude devant moi et m\'empare des rames. Je sais qu\'il y a un lac juste avant la cascade, un endroit ou les eaux se calment et ou je pourrai debarquer pour m\'assurer la suite du parcours.  \n");
+printf("La barque est secouee dans tous les sens, l\'eau s\'engouffre a l\'interieur. J\'ai peur un instant qu\'elle coule. Elle cogne contre certains rochers, tient bon.  \n");
+printf("Une de mes rames m\'est arrachee dans une chute. Je sais que je ne parviendrais plus a rien controler. Je recupere donc l\'autre, la pose au fond de la barque et m\'allonge dessus, pour ne pas la perdre et pour ne pas m\'exposer.  \n");
+printf("Je ne vois plus rien, l\'eau se jette dans mes yeux. Je sens des coups de toute part. Je prie pour que l\'embarcation ne se retourne pas ! Je ne sais combien de temps je traverse ces remous. \n");
+printf("Tout a coup, la barque ralentit et cesse de tanguer.  \n");
+printf("Je me redresse doucement. \n");
+printf("Le lac ! \n");
+printf("Je prends la rame et commence a me diriger vers les rives.  \n");
+printf("Une etrange bulle d\'eau eclate a cote de moi. Je ne sais pas ce que c\'est.  \n");
+printf("Une autre eclate encore. Et une ombre se profile en-dessous.  \n");
+printf("Deux billes fluorescentes s\'allument sur cette ombre. Une gueule beante s\'ouvre.  \n");
+printf("La barque est poussee sur le cote par les mouvements de l\'eau. Je tente de l\'ecarter davantage avec la rame, mais je ne pourrai pas y echapper longtemps. \n");
+printf("Je vois avec horreur une tete de serpent geante sortir de l\'onde et me montrer ses dents acerees dans un cri. Je me tiens debout, sur la barque, pret a faire face au Leviathan, a ne pas mourir sans me battre. \n");
+[ Phase de combat – Leviathan < ] 
+
+[ Phase de combat – Leviathan > ] 
+
+printf("Je me jette dans le lac et nage aussi vite que je le peux. Mon salut immediat est sur la berge. Je n\'en suis pas loin. \n");
+printf("Dans ma peur, je ne me rends pas compte que je retiens mon souffle. Je ne le constate que lorsque je sens sous ma main le sol qui remonte progressivement au-dessus de l\'eau.  \n");
+printf("Je cesse de nager, pose mes pieds sur le sol, et marche hors du lac, en respirant a nouveau.  \n");
+printf("Sur la berge, je me precipite le plus loin possible, contre les murs de l\'immense grotte, ou je me laisse tomber, la tete entre les mains.  \n");
+printf("Je reste un instant ainsi, dans ce moment suspendu ou rien ne peut m\'atteindre, comme un enfant qui s\'enferme dans sa chambre pour echapper a une peur.  \n");
+printf("Je respire a nouveau. Je respire encore.  \n");
+printf("Et c\'est seulement maintenant que je percois un souffle de l\'air. Je le sens contre ma peau. \n");
+printf("Je me releve doucement. Je me dirige vers la cascade au bout du lac.  \n");
+printf("Une cavite etroite permet de voir au-dela. \n");
+printf("C\'est une foret. C\'est l\'exterieur ! \n");
+printf("Je m\'accroche a la roche pour escalader et passer au-dessus de la riviere, pour me retrouver de l\'autre cote, au flan de la falaise, dans le vent. \n");
+printf("J\'entreprends de descendre, prudemment, en m\'agrippant fermement a la roche. Je ne peux pas faire une chute mortelle maintenant, apres avoir survecu a tout ca ! \n");
+printf("La descente est tres lente, tres longue. Elle tire sur mes membres dechires par de multiples blessures, elle tire sur mes bras fatigues, sur mes membres lourds epuises par les contractions dues a la peur. \n");
+printf("Pourtant, j\'y arrive, je parviens a poser le pied sur le sol.  \n");
+printf("Je n\'ai plus qu\'a suivre la riviere pour trouver une ville ou un village ami.  \n");
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Remplacement texte [arme] 
+
+l\'epee lourde 
+
+l\'epee courte 
+
+le baton  
+
+l\'arc 
+
+Soins : 2 (Morceaux de tissu) 
+
+Loot : 
+
+Griffe de lion : permet de crocheter la serrure (entraineur). Trouve sur un lion. 
+
+Morceaux de tissu : permet de regagner des PV. Trouve sur un guerrier. 
+
+Dard de wyverne : permet de crocheter la serrure (crochet). Trouve sur une wyverne.  
+
+Carte de la cite : permet de trouver le chemin de la sortie. Trouve sur un drow, ou dans la salle des gardes 
+
+ 
